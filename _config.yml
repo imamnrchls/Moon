@@ -1,5 +1,5 @@
 # Site
-title:              Blip Blop
+title:              Wanderer
 bio:                'A Personal Website of Imam Nurcholis'
 description:        "Moon is a minimal, one column jekyll theme for your blog."
 reading_time:       true
@@ -37,10 +37,10 @@ disqus_shortname:   #
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              imamnrchls@outlook.com
 twitter:            imemnur
-facebook:           username
-github-url:         username
+#facebook:           username
+github-url:         imamnrchls
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
@@ -48,9 +48,9 @@ instagram:          imamnrchls
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
-#pinterest:         username
+pinterest:         imemnur
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
